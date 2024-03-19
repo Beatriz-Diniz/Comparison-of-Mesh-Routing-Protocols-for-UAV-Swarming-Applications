@@ -1,0 +1,12 @@
+Source Host,Destination Host,Packets Sent,Packet Loss,Packet Delivery Ratio,Delay,Test duration,Bytes Sent,Throughput
+rasp2,rasp1,10,0%,100.0%,8.262 ms,10032 ms,53107956 Bytes,5.05 MB/s (42.35 Mbps)
+rasp2,rasp1,50,0%,100.0%,7.247 ms,10292 ms,43198092 Bytes,4.00 MB/s (33.58 Mbps)
+rasp2,rasp1,100,0%,100.0%,7.171 ms,10348 ms,40150152 Bytes,3.70 MB/s (31.04 Mbps)
+rasp2,rasp1,500,0%,100.0%,6.852 ms,10012 ms,23483160 Bytes,2.24 MB/s (18.76 Mbps)
+rasp2,rasp1,1000,0%,100.0%,7.284 ms,10164 ms,45794376 Bytes,4.30 MB/s (36.04 Mbps)
+rasp2,rasp3,10,0%,100.0%,8.461 ms,10180 ms,46477764 Bytes,4.35 MB/s (36.52 Mbps)
+rasp2,rasp3,50,0%,100.0%,6.774 ms,10356 ms,56170656 Bytes,5.17 MB/s (43.39 Mbps)
+rasp2,rasp3,100,0%,100.0%,7.482 ms,10100 ms,57311604 Bytes,5.41 MB/s (45.40 Mbps)
+rasp2,rasp3,500,0%,100.0%,7.167 ms,10164 ms,53146332 Bytes,4.99 MB/s (41.83 Mbps)
+rasp2,rasp3,1000,0%,100.0%,7.505 ms,10252 ms,57465108 Bytes,5.35 MB/s (44.84 Mbps)
+rasp2,rasp3,10000,0%,100.0%,7.347 ms,10128 ms,597780 Bytes,57.64 KB/s (472.18 Kbps)
