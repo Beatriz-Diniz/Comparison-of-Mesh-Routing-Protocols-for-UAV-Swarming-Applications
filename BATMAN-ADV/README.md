@@ -269,5 +269,5 @@ except IOError:
 
 2. To run:
 ```bash
-sudo python3 batman-adv_testes.py nPacketsToSend hostSource hostDest fileName
+sudo python3 batman-adv_testes.py nPacketsToSend hostSource hostDest fileName.csv
 ```
